@@ -1,0 +1,54 @@
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\bin\Debug\deusparayuz.exe.config
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\bin\Debug\deusparayuz.exe
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\bin\Debug\deusparayuz.pdb
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\bin\Debug\deusparayuz.xml
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.vbprojAssemblyReference.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.Resources.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.vbproj.GenerateResource.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.vbproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.exe
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.xml
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.pdb
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.frmInterface.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.UserControl1.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\deusparayuz\deusparayuz\obj\Debug\deusparayuz.Form2.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.exe.config
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.exe
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.pdb
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.xml
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbprojAssemblyReference.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.Resources.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbproj.GenerateResource.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.exe
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.xml
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.pdb
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAyarlar.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmIsBolumleri.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmTemaAyarlari.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmBagis.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmSayac.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAnasayfa.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmDelal.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmBossBanka.resources
+C:\Users\Baran\Desktop\All\Visual Studio\repos\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAdminGiris.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.exe.config
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.exe
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.pdb
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\bin\Debug\deusparayuz.xml
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbprojAssemblyReference.cache
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAdminGiris.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAnasayfa.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmBagis.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmBossBanka.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmAyarlar.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmDelal.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmIsBolumleri.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmSayac.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.Resources.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.frmTemaAyarlari.resources
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbproj.GenerateResource.cache
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.vbproj.CoreCompileInputs.cache
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.exe
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.xml
+C:\Users\deusp\Desktop\All\Projesel\Görsel Programlama\ilk dönem\DEUSP - PERSONEL TAKİP\DEUSPARAYUZ\deusparayuz\obj\Debug\deusparayuz.pdb
